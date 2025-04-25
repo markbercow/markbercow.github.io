@@ -1,5 +1,6 @@
 ---
 layout: default
+title: home
 ---
 # 👋 Hi, I'm Mark
 

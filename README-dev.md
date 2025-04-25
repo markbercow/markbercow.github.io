@@ -77,4 +77,3 @@ This project is a fully Dockerized development environment for a Jekyll-based Gi
 
 ---
 
-Enjoy building your awesome GitHub Pages portfolio! 🚀
