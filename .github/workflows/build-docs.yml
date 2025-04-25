@@ -27,7 +27,7 @@ jobs:
           gem install bundler
           bundle install
 
-      - name: Build Jekyll site
+      - name: Build Jekyll site (explicit source and destination)
         run: |
           bundle exec jekyll build --source src --destination docs
 
