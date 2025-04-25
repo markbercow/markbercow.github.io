@@ -1,0 +1,9 @@
+services:
+  jekyll:
+    build: .
+    ports:
+      - "4000:4000"
+    volumes:
+      - ./src:/srv/jekyll/src
+    working_dir: /srv/jekyll
+    command: bundle exec jekyll serve --watch --livereload --host 0.0.0.0 --source src

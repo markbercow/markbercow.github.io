@@ -1,0 +1,16 @@
+title: Mark Bercow – Portfolio
+email: mark@bercow.com
+description: >-
+  Welcome! I'm a software developer building cool things with Python, JavaScript, and Vue. Here are a few projects I've worked on.
+
+theme: jekyll-theme-midnight
+github_username: markbercow
+
+# Optional: social links
+social_links:
+  - name: LinkedIn
+    url: https://linkedin.com/in/mark-bercow
+  - name: GitHub
+    url: https://github.com/markbercow
+
+repository: markbercow/markbercow.github.io
