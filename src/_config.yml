@@ -4,6 +4,7 @@ description: >-
   Welcome! I'm a software developer building cool things with Python, JavaScript, and Vue. Here are a few projects I've worked on.
 
 theme: jekyll-theme-midnight
+baseurl: ""
 github_username: markbercow
 
 # Optional: social links
