@@ -4,7 +4,7 @@ title: home
 ---
 # 👋 Hi, I'm Mark
 
-I'm a developer who loves building tools, automating tasks, and making data dance. Here's a selection of some of my favorite projects.
+My journey is somewhat unique. After a successful career on the business side of tech, I've taken a life-long passion for coding and am steering the ship accordingly. 
 
 ## 🛠️ Featured Projects
 
