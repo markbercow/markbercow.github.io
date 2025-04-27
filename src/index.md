@@ -1,39 +1,50 @@
 ---
 layout: default
-title: home
+title: Home
 ---
-# 👋 Hi, I'm Mark
 
-My journey is somewhat unique. After a successful career on the business side of tech, I've taken a life-long passion for coding and am steering the ship accordingly. 
+# 👋 Welcome!
+
+After a successful career on the business side of tech, I've reignited a life-long passion for coding and am steering the ship accordingly. I love building tools, automating tasks, and creating clean, efficient solutions.
 
 ## 🛠️ Featured Projects
 
-### [Weather Dashboard](https://github.com/markbercow/weather-client.git)
+### 📡 Weather Dashboard
+_A Vue.js app that displays real-time environmental data collected from local Raspberry Pi sensors._
 
-A Vue.js app that shows real-time weather data from local Raspberry Pi's (one indoor and one outdoor) showing temp, humidity, pressure, altitude and air quality.
-
-**Tech**: Vue.js, Bulma CSS, Axios
-
----
-
-### [Book Scraper Bot](https://github.com/markbercow/BookstoreChatbot.git)
-
-An async Python scraper that fetches book data from a demo e-commerce site and generates cool visualizations.
-
-**Tech**: Python, aiohttp, BeautifulSoup, Pandas, Seaborn
+- Real-time temperature, humidity, pressure, altitude, and air quality readings
+- Mobile-first responsive design using Bulma CSS
+- Built with Axios for dynamic data fetching
+- **Private Repository** — Demos available upon request
 
 ---
 
-### [Oura Ring Visualizer](https://github.com/markbercow/oura-webapp.git)
+### 📚 Book Scraper Bot
+_An asynchronous Python bot that scrapes book data from a demo e-commerce site and visualizes key insights._
 
-A web dashboard for displaying Oura Ring Gen 4 health data, built with Flask and Vue3.
-
-**Tech**: Flask, Vue3, Tailwind CSS, Matplotlib
+- Fast scraping with `aiohttp` and `BeautifulSoup`
+- Data cleaning and exploration using Pandas
+- Beautiful visualizations powered by Seaborn
+- **Private Repository** — Code samples available upon request
 
 ---
 
+### 🧠 Oura Ring Visualizer
+_A web dashboard to analyze and display Oura Ring Gen 4 health and activity data._
+
+- Backend API powered by Flask
+- Frontend UI built with Vue 3 and Tailwind CSS
+- Health metrics visualized with Matplotlib charts
+- **Private Repository** — Screenshots and live demos available upon request
+
+---
 ## 📫 Get In Touch
 
-- Email: mark@bercow.com
-- [GitHub](https://github.com/markbercow)
-- [LinkedIn](https://linkedin.com/in/mark-bercow)
+- 📧 Email: [mark@bercow.com](mailto:mark@bercow.com)
+- 🐙 GitHub: [markbercow](https://github.com/markbercow)
+- 💼 LinkedIn: [mark-bercow](https://linkedin.com/in/mark-bercow)
+
+<footer style="text-align: center; font-size: 0.75em; margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #ddd; color: #777;">
+  © 2024 Mark Bercow – All Rights Reserved
+</footer>
+
