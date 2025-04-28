@@ -10,7 +10,7 @@ After a successful career on the business side of tech, I've reignited a life-lo
 ## 🛠️ Featured Projects
 
 ### 📻 vDX Ham Radio Spot and DXCC Tracker
-_A Google Maps js API-based SPA that shows an amateur radio operators current country count and live worldwide spot information. A long time project used for continual learning._
+_A Google Maps js API-based SPA that shows an amateur radio operator's current country count and live worldwide spot information. A long time project used for continual learning._
 
 - Real-time spots of active hams heard around the world, and an active map display of previous contacts by country
 - First started as a Flask full-stack project, I've used this project to learn APIs, front-end dev, databases, authentication, and Google Maps javascript API
@@ -46,13 +46,14 @@ _*** Currently rebuilding Raspberry Pi with new sensors for indoor weather, henc
 
 ---
 
-### 📚 Book Scraper Bot
+### 📚 Book Website Scraper Bot
 _An asynchronous Python bot that scrapes book data from a demo e-commerce site and visualizes key insights._
 
 - Fast scraping with `aiohttp` and `BeautifulSoup`
 - Data cleaning and exploration using Pandas
 - Beautiful visualizations powered by Seaborn
-- **Private Repository** — Code samples available upon request
+- **Here's the Source** — <a href="https://github.com/markbercow/booksite-scraper-bot.git" target="_blank" rel="noopener noreferrer">Book Website Scraper Bot</a>
+
 
 ---
 
