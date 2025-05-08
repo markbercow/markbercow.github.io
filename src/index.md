@@ -54,6 +54,14 @@ _An asynchronous Python bot that scrapes book data from a demo e-commerce site a
 - Beautiful visualizations powered by Seaborn
 - **Here's the Source** — <a href="https://github.com/markbercow/booksite-scraper-bot.git" target="_blank" rel="noopener noreferrer">Book Website Scraper Bot</a>
 
+---
+
+### 🖥️ Router Admin Webpage Scraper
+_A simple Python app that scrapes network client information from a router's admin webpage and saves to a .csv file._
+
+- Uses Selenium since the content is dynamically generated
+- A great opportunity to learn Selenium and more advanced web scraping skills
+- **Here's the Source** - <a href="https://github.com/markbercow/router-scrape.git" target="_blank" rel="noopener noreferrer">Router Admin Webpage Scraper</a>
 
 ---
 
