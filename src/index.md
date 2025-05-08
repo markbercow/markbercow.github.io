@@ -10,6 +10,7 @@ After a successful career on the business side of tech, I've reignited a life-lo
 ## 🛠️ Featured Projects
 
 ### 📻 vDX Ham Radio Spot and DXCC Tracker
+
 _A Google Maps js API-based SPA that shows an amateur radio operator's current country count and live worldwide spot information. A long time project used for continual learning._
 
 - Real-time spots of active hams heard around the world, and an active map display of previous contacts by country
@@ -21,7 +22,9 @@ _A Google Maps js API-based SPA that shows an amateur radio operator's current c
 ![vDX Dashboard Screenshot](/assets/images/vdx-spots.png)
 
 ---
+
 ### 🧠 Oura Ring Visualizer
+
 _A web dashboard to analyze and display Oura Ring Gen 4 health and activity data._
 
 - Backend API powered by Flask
@@ -34,6 +37,7 @@ _A web dashboard to analyze and display Oura Ring Gen 4 health and activity data
 ---
 
 ### 📡 Weather Dashboard
+
 _A Vue.js app that displays real-time environmental data collected from local Raspberry Pi sensors._
 
 - Real-time temperature, humidity, pressure, altitude, and air quality readings
@@ -47,6 +51,7 @@ _*** Currently rebuilding Raspberry Pi with new sensors for indoor weather, henc
 ---
 
 ### 📚 Book Website Scraper Bot
+
 _An asynchronous Python bot that scrapes book data from a demo e-commerce site and visualizes key insights._
 
 - Fast scraping with `aiohttp` and `BeautifulSoup`
@@ -57,6 +62,7 @@ _An asynchronous Python bot that scrapes book data from a demo e-commerce site a
 ---
 
 ### 🖥️ Router Admin Webpage Scraper
+
 _A simple Python app that scrapes network client information from a router's admin webpage and saves to a .csv file._
 
 - Uses Selenium since the content is dynamically generated
